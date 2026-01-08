@@ -1,5 +1,5 @@
 #Two Sum
-#Array + Brute Force
+# DSA: Array + Brute Force
 def twoSum(nums, target):
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
