@@ -1,7 +1,4 @@
-# Practice file - not pushed
-scratch.py
-bank_account.py
-playground.py
+cratch.py
 __pycache__/
 *.pyc
 .DS_Store
